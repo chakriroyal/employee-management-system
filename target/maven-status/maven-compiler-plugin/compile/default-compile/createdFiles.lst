@@ -1,5 +1,8 @@
+com\qsp\employee_management_system\controller\UpdateEmployeeServlet.class
+com\qsp\employee_management_system\service\EmployeeService.class
+com\qsp\employee_management_system\controller\EmployeeServlet.class
+com\qsp\employee_management_system\controller\GetAllEmployeeServlet.class
 com\qsp\employee_management_system\dao\EmployeeDao.class
 com\qsp\employee_management_system\util\HibernateUtil.class
 com\qsp\employee_management_system\entity\Employee.class
-com\qsp\employee_management_system\service\EmployeeService.class
-com\qsp\employee_management_system\controller\EmployeeServlet.class
+com\qsp\employee_management_system\controller\DeleteEmployeeServlet.class
